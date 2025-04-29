@@ -1,0 +1,33 @@
+{
+  "apiID": "package_f51da5__c__function_aadg6u6ynacaa",
+  "apiName": "node_faas_function_invoke",
+  "label": {
+    "zh_CN": "node_faas_function_invoke",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [
+    {
+      "key": "apiName",
+      "type": "Text",
+      "required": true,
+      "label": "DemoInputField",
+      "description": "函数的 apiName",
+      "example": ""
+    },
+    {
+      "key": "params",
+      "type": "Text",
+      "required": true,
+      "label": "DemoInputField",
+      "description": "触发函数",
+      "example": ""
+    }
+  ],
+  "output": []
+}

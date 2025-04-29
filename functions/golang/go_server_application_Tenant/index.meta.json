@@ -1,0 +1,16 @@
+{
+  "apiID": "package_f51da5__c__function_aadg6u7l5cmci",
+  "apiName": "go_server_application_Tenant",
+  "label": {
+    "zh_CN": "go_server_application_Tenant",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

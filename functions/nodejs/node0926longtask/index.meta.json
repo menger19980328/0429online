@@ -1,0 +1,16 @@
+{
+  "apiID": "package_f51da5__c__function_aadg6i2re7uas",
+  "apiName": "node0926longtask",
+  "label": {
+    "zh_CN": "node0926longtask",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}

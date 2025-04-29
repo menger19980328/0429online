@@ -1,0 +1,31 @@
+{
+  "apiID": "package_f51da5__c__function_aadg6u7gaukks",
+  "apiName": "go_function_tool_getLogID",
+  "label": {
+    "zh_CN": "go_function_tool_getLogID",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [
+    {
+      "key": "Input",
+      "type": "Text",
+      "required": false,
+      "label": "输入",
+      "description": ""
+    }
+  ],
+  "output": [
+    {
+      "key": "Output",
+      "type": "Text",
+      "label": "输出",
+      "description": ""
+    }
+  ]
+}

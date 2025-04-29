@@ -1,0 +1,17 @@
+{
+  "apiID": "package_f51da5__c__function_aadgxh47x3ims",
+  "apiName": "node2cli08151",
+  "label": {
+    "zh_CN": "node 2 cli 08151",
+    "en_US": "node 2 cli 08151"
+  },
+  "description": {
+    "zh_CN": "自定义函数1",
+    "en_US": "Custom Function1"
+  },
+  "isPublicAPI": false,
+  "frontendSDKInvokable": false,
+  "longTaskMode": false,
+  "input": [],
+  "output": []
+}

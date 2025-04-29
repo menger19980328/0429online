@@ -1,0 +1,16 @@
+{
+  "apiID": "package_f51da5__c__function_aadg6u6ykm6bg",
+  "apiName": "go_baas_mongoDB",
+  "label": {
+    "zh_CN": "go_baas_mongoDB",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
